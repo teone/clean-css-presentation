@@ -1,3 +1,13 @@
 body, .reveal{
     font-size: 18px !important;
 }
+
+.reveal code{
+    background: #ccc;
+    padding: 10px;
+    color: #000;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px solid #aaa;
+    margin-top: 10px;
+}

@@ -1,3 +1,10 @@
 ##  SASS variables
 
-This is a new Markdown slide
+This is good:<br>
+`$bg-primary-color: #ccc`
+<br><br>
+This is Bad:<br>
+`$blue: #ffe`
+<hr>
+_Never user color (or element) name in variables_<br>
+_They are designed to be used **everywhere**_
