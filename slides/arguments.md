@@ -3,4 +3,5 @@
 - Existing CSS Pattern
 - My way (proposal)
 - Integrate Sass
-- Tools
+- Best Practice
+- Examples

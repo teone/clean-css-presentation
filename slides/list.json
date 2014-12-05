@@ -2,5 +2,8 @@
     "index.md",
     "arguments.md",
     "oocss.md",
-    "smacss.md"
+    "smacss.md",
+    "bem.md",
+    "my-way.md",
+    "sass-variables.md"
 ]
