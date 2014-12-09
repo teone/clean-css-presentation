@@ -5,5 +5,42 @@
     "smacss.md",
     "bem.md",
     "my-way.md",
-    "sass-variables.md"
+    [
+        "best-practice-1.md",
+        "best-practice-2.md",
+        "best-practice-3.md",
+        "best-practice-4.md"
+    ],
+    [
+        {
+            "filename": "sass.md",
+            "attr": {
+                "data-background": "#669999"
+            }
+        },
+        {
+            "filename": "sass-variables.md",
+            "attr": {
+                "data-background": "#669999"
+            }
+        },
+        {
+            "filename": "sass-mixins.md",
+            "attr": {
+                "data-background": "#669999"
+            }
+        },
+        {
+            "filename": "sass-functions.md",
+            "attr": {
+                "data-background": "#669999"
+            }
+        },
+        {
+            "filename": "sass-native-functions.md",
+            "attr": {
+                "data-background": "#669999"
+            }
+        }
+    ]
 ]

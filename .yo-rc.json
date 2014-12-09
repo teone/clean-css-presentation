@@ -42,6 +42,8 @@
     "packageVersion": "1.0.0",
     "revealTheme": "night",
     "useSass": false,
-    "deployToGithubPages": false
+    "deployToGithubPages": false,
+    "githubUsername": "example_username",
+    "githubRepository": "example_repository"
   }
 }

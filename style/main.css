@@ -2,7 +2,7 @@ body, .reveal{
     font-size: 18px !important;
 }
 
-.reveal code{
+.reveal br + code{
     background: #ccc;
     padding: 10px;
     color: #000;
@@ -10,4 +10,21 @@ body, .reveal{
     border-radius: 10px;
     border: 1px solid #aaa;
     margin-top: 10px;
+}
+
+.reveal pre code{
+    border-radius: 10px;
+    padding: 10px !important;
+    font-size: 14px !important;
+}
+
+.reveal ul > li{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.reveal ul > li:not(:last-child){
+    border-bottom: 1px solid #fff;
 }
