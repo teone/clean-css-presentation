@@ -6,10 +6,30 @@
     "bem.md",
     "my-way.md",
     [
-        "best-practice-1.md",
-        "best-practice-2.md",
-        "best-practice-3.md",
-        "best-practice-4.md"
+        {
+            "filename": "best-practice-1.md",
+            "attr": {
+                "data-background": "#01a817"
+            }
+        },
+        {
+            "filename": "best-practice-2.md",
+            "attr": {
+                "data-background": "#01a817"
+            }
+        },
+        {
+            "filename": "best-practice-3.md",
+            "attr": {
+                "data-background": "#01a817"
+            }
+        },
+        {
+            "filename": "best-practice-4.md",
+            "attr": {
+                "data-background": "#01a817"
+            }
+        }
     ],
     [
         {
@@ -42,5 +62,11 @@
                 "data-background": "#669999"
             }
         }
-    ]
+    ],
+    {
+            "filename": "tools.md",
+            "attr": {
+                "data-background": "#d88a04"
+            }
+        }
 ]

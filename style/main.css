@@ -28,3 +28,7 @@ body, .reveal{
 .reveal ul > li:not(:last-child){
     border-bottom: 1px solid #fff;
 }
+
+section[data-background="#d88a04"] a{
+    color: #0446d6 !important;
+}
